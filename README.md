@@ -22,3 +22,5 @@ In order to improve my skills and do some exercises on data analytics, I've star
   
 * Volatility_Analyses_In_Apple_Stock :
 > This file includes Volatility analysis and moving average calculations of me on price columns. Before doing that, I've preferred removing null values since they are wrong data entries and keeping outliers since they give us clues about price swings and therefore, volatility. Then I've found insights according to the volatility values. Finally, I've tried calculating simple moving average values on 5 consecutive trades for each price column. I will be doing detailed analyses for moving averages on Python.
+
+* AppleStock_PowerBI : This file includes the dashboard that I started creating on PowerBI for AppleStock dataset. It's not completely ready yet but you could look at it to get to know about my PowerBI skills.
