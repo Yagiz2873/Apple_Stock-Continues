@@ -8,4 +8,10 @@ In order to improve my skills and do some exercises on data analytics, I've star
 * Low : Minimum price in a trading day
 * Close : Price from the last transaction of a trading day
 * Adj Close : Closing price adjusted to reflect the value after accounting for any corporate actions
-* Volume : Number of units traded in a day. 
+* Volume : Number of units traded in a day.
+
+# Files' Content
+* apple_stock_raw_data : Represents raw dataset that I've got from Kaggle in csv format.
+* apple_stock_as_xlsx : Represents raw dataset in xlsx format that I've turned into from the raw dataset in csv format
+* Apple_Stock_ChatGPT_Recommendations : This file shows that analyses and ML algorithms that I could implement on this dataset
+* apple_stock_main_file:
